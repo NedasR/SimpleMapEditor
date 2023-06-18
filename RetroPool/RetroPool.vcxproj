@@ -20,6 +20,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="TileBoard.cpp" />
+    <ClCompile Include="TilePicker.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TileBoard.h" />
+    <ClInclude Include="TilePicker.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

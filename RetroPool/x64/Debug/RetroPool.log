@@ -1,29 +1,28 @@
 ﻿  main.cpp
-C:\Users\nedne\OneDrive\Desktop\games\simple map editor1\RetroPool\main.cpp(47,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\nedne\OneDrive\Desktop\games\simple map editor1\RetroPool\main.cpp(47,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\nedne\OneDrive\Desktop\games\simple map editor1\RetroPool\main.cpp(48,59): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+  TilePicker.cpp
+C:\Users\nedne\Desktop\games\SimpleMapEditor\RetroPool\TilePicker.cpp(30,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nedne\Desktop\games\SimpleMapEditor\RetroPool\TilePicker.cpp(30,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nedne\Desktop\games\SimpleMapEditor\RetroPool\TilePicker.cpp(31,59): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
           with
           [
               T=int
           ]
-C:\Users\nedne\OneDrive\Desktop\games\simple map editor1\RetroPool\main.cpp(48,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\nedne\Desktop\games\SimpleMapEditor\RetroPool\TilePicker.cpp(31,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
           with
           [
               T=int
           ]
-C:\Users\nedne\OneDrive\Desktop\games\simple map editor1\RetroPool\main.cpp(73,15): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+C:\Users\nedne\Desktop\games\SimpleMapEditor\RetroPool\TilePicker.cpp(88,15): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\nedne\OneDrive\Desktop\games\simple map editor1\RetroPool\main.cpp(74,15): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+C:\Users\nedne\Desktop\games\SimpleMapEditor\RetroPool\TilePicker.cpp(89,15): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\nedne\OneDrive\Desktop\games\simple map editor1\RetroPool\main.cpp(108,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\nedne\OneDrive\Desktop\games\simple map editor1\RetroPool\main.cpp(152,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\nedne\OneDrive\Desktop\games\simple map editor1\RetroPool\main.cpp(152,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\nedne\OneDrive\Desktop\games\simple map editor1\RetroPool\main.cpp(243,14): warning C4101: 'o': unreferenced local variable
-C:\Users\nedne\OneDrive\Desktop\games\simple map editor1\RetroPool\main.cpp(64): warning C4715: 'TilePicker::PickingTex': not all control paths return a value
-  RetroPool.vcxproj -> C:\Users\nedne\OneDrive\Desktop\games\simple map editor1\x64\Debug\RetroPool.exe
+C:\Users\nedne\Desktop\games\SimpleMapEditor\RetroPool\TilePicker.cpp(123,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+C:\Users\nedne\Desktop\games\SimpleMapEditor\RetroPool\TilePicker.cpp(79): warning C4715: 'TilePicker::PickingTex': not all control paths return a value
+  RetroPool.vcxproj -> C:\Users\nedne\Desktop\games\SimpleMapEditor\x64\Debug\RetroPool.exe
